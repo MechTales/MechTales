@@ -1,9 +1,7 @@
-- 👋 Hi, I’m DAVID K NGEI
-- 👀 I’m interested in Front-End Engineering
-- 🌱 I’m currently learning JavaScript
+- 👋 Hello, I’m DAVID K. NGEI.
+- 👀 I’m interested in Mechanical Engineering and Web development [Front-End]
+- 🌱 I’m currently learning: 
+   (a)Gas Dynamics and Jet Propulsion, 
+   (b)Jigs And Tool Design, and 
+   (c)Web development on Top Universe
 - 📫 How to reach me Twitter @davie__k
-
-<!---
-MechTales/MechTales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
