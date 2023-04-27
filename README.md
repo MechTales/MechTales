@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MechTales
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on a robotics project 
+- 👋 Hi, I’m DAVID K NGEI
+- 👀 I’m interested in Front-End Engineering
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me Twitter @davie__k
 
 <!---
